@@ -1,0 +1,13 @@
+.img{
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+}
+
+.image{
+    margin: 0%;
+    position: relative;
+    left: 30%;
+    top: 30px;
+    background-image: url(2.jpg);
+    background-repeat: no-repeat;
+}

@@ -12,7 +12,6 @@ import { HomepageComponent } from './homepage/homepage.component';
 import { MenuComponent } from './menu/menu.component';
 import { HttpClientModule } from '@angular/common/http';
 import { ClothesComponent } from './clothes/clothes.component';
-import { JanviComponent } from './janvi/janvi.component';
 
 @NgModule({
   declarations: [
@@ -22,9 +21,6 @@ import { JanviComponent } from './janvi/janvi.component';
     HomepageComponent,
     MenuComponent,
     ClothesComponent,
-    JanviComponent,
-
-
   ],
   imports: [
     BrowserModule,
